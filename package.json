@@ -1,0 +1,31 @@
+{
+  "name": "ghost-radar",
+  "version": "1.0.0",
+  "description": "重複檔案抓鬼雷達 - 用 hash 找出躲在不同角落的分身鬼",
+  "main": "bin/ghost-radar.js",
+  "bin": {
+    "ghost-radar": "./bin/ghost-radar.js"
+  },
+  "scripts": {
+    "start": "node bin/ghost-radar.js",
+    "test": "node bin/ghost-radar.js --help"
+  },
+  "keywords": [
+    "duplicate",
+    "file",
+    "finder",
+    "hash",
+    "cli",
+    "cleanup",
+    "ghost",
+    "radar"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "commander": "^12.1.0"
+  },
+  "engines": {
+    "node": ">=16.0.0"
+  }
+}
