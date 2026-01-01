@@ -1,8 +1,8 @@
-# Ghost Radar
+# Ghost Radar 用 hash 找出分身鬼
 
 > 重複檔案抓鬼雷達 - 用 hash 找出躲在不同角落的分身鬼
 
-[← 回到 Muripo HQ](https://tznthou.github.io/muripo-hq/)
+[← 回到 Muripo HQ](https://tznthou.github.io/muripo-hq/) | [English](README_EN.md)
 
 ---
 
@@ -236,3 +236,9 @@ Hash（雜湊）是檔案的「指紋」：
 ## License
 
 [MIT](LICENSE)
+
+---
+
+## 作者
+
+子超 - [tznthou@gmail.com](mailto:tznthou@gmail.com)
